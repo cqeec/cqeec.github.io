@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+    font-family: -apple-system, 'Noto Sans', sans-serif;
+}
+
+.cqeec-header-title {
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.cqeec-footer {
+    background-color: #F9F9F9;
+    border-top: .05rem solid #E5E5E5;
+}
